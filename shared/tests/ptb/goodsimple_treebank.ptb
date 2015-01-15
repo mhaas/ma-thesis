@@ -1,0 +1,2 @@
+(4 (4 (4 foo) (4 bar)) (4 (4 baz) (4 bat)))
+(0 (0 (0 qux) (0 quu)) (0 (0 qua) (4 quux)))

@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<treealign>
+<head>
+</head>
+  <treebanks>
+    <treebank filename="/home/students/haas/ma/film-rezensionen.de/parsed/filmberichte_fmt.graphroot.cleaned.xml" id="1"/>
+    <treebank filename="/home/students/haas/ma/film-rezensionen.de/translated-fixed/parsed/all.en.fixed.txt.oneline.60.nodummy.cleaned.tiger" id="2"/>
+  </treebanks>
+  <alignments>
+ <align author="Lingua-Align" prob="0.19504323046031196709" type="fuzzy">
+      <node node_id="s125_n503" type="nt" treebank_id="1"/>
+      <node node_id="126_12" type="nt" treebank_id="2"/>
+    </align>
+    <align author="Lingua-Align" prob="0.00545116207104214077" type="fuzzy">
+      <node node_id="s125_VROOT" type="nt" treebank_id="1"/>
+      <node node_id="126_509" type="nt" treebank_id="2"/>
+    </align>
+    <align author="Lingua-Align" prob="0.01557460478944952889" type="fuzzy">
+      <node node_id="s125_12" type="t" treebank_id="1"/>
+      <node node_id="126_26" type="t" treebank_id="2"/>
+    </align>
+    <align author="Lingua-Align" prob="0.35002916036772546704" type="fuzzy">
+      <node node_id="s125_3" type="t" treebank_id="1"/>
+      <node node_id="126_8" type="t" treebank_id="2"/>
+    </align>
+    <align author="Lingua-Align" prob="0.72084206528132488412" type="good">
+      <node node_id="s125_8" type="t" treebank_id="1"/>
+      <node node_id="126_20" type="t" treebank_id="2"/>
+    </align>
+    <align author="Lingua-Align" prob="0.84766428610278998779" type="good">
+      <node node_id="s125_10" type="t" treebank_id="1"/>
+      <node node_id="126_24" type="t" treebank_id="2"/>
+    </align>
+    <align author="Lingua-Align" prob="0.39280892420397511833" type="fuzzy">
+      <node node_id="s125_n507" type="nt" treebank_id="1"/>
+      <node node_id="126_521" type="nt" treebank_id="2"/>
+    </align>
+    <align author="Lingua-Align" prob="0.80883703395373585110" type="good">
+      <node node_id="s125_n504" type="nt" treebank_id="1"/>
+      <node node_id="126_518" type="nt" treebank_id="2"/>
+    </align>
+    <align author="Lingua-Align" prob="0.68982412035395279659" type="good">
+      <node node_id="s125_7" type="t" treebank_id="1"/>
+      <node node_id="126_19" type="t" treebank_id="2"/>
+    </align>
+    <align author="Lingua-Align" prob="0.00343953572634759239" type="fuzzy">
+      <node node_id="s125_n505" type="nt" treebank_id="1"/>
+      <node node_id="126_516" type="nt" treebank_id="2"/>
+    </align>
+    <align author="Lingua-Align" prob="0.64507889504053195218" type="good">
+      <node node_id="s125_4" type="t" treebank_id="1"/>
+      <node node_id="126_10" type="t" treebank_id="2"/>
+    </align>
+    <align author="Lingua-Align" prob="0.60011488280779157201" type="good">
+      <node node_id="s125_11" type="t" treebank_id="1"/>
+      <node node_id="126_25" type="t" treebank_id="2"/>
+    </align>
+    <align author="Lingua-Align" prob="0.58594272127381585857" type="good">
+      <node node_id="s125_n506" type="nt" treebank_id="1"/>
+      <node node_id="126_523" type="nt" treebank_id="2"/>
+    </align>
+    <align author="Lingua-Align" prob="0.35721498867327677873" type="fuzzy">
+      <node node_id="s125_1" type="t" treebank_id="1"/>
+      <node node_id="126_6" type="t" treebank_id="2"/>
+    </align>
+    <align author="Lingua-Align" prob="0.04180503669456887145" type="fuzzy">
+      <node node_id="s125_n500" type="nt" treebank_id="1"/>
+      <node node_id="126_502" type="nt" treebank_id="2"/>
+    </align>
+    <align author="Lingua-Align" prob="0.33332955639019967720" type="fuzzy">
+      <node node_id="s125_2" type="t" treebank_id="1"/>
+      <node node_id="126_7" type="t" treebank_id="2"/>
+    </align>
+    <align author="Lingua-Align" prob="0.45704060123519513192" type="fuzzy">
+      <node node_id="s125_9" type="t" treebank_id="1"/>
+      <node node_id="126_22" type="t" treebank_id="2"/>
+    </align>
+    <align author="Lingua-Align" prob="0.87968885730790979949" type="good">
+      <node node_id="s125_n508" type="nt" treebank_id="1"/>
+      <node node_id="126_501" type="nt" treebank_id="2"/>
+ </align>
+    <align author="Lingua-Align" prob="0.68884301873111453141" type="good">
+      <node node_id="s125_n501" type="nt" treebank_id="1"/>
+      <node node_id="126_505" type="nt" treebank_id="2"/>
+    </align>
+    <align author="Lingua-Align" prob="0.15586600203265879583" type="fuzzy">
+      <node node_id="s125_6" type="t" treebank_id="1"/>
+      <node node_id="126_3" type="t" treebank_id="2"/>
+    </align>
+    <align author="Lingua-Align" prob="0.01385488716799938326" type="fuzzy">
+      <node node_id="s125_n502" type="nt" treebank_id="1"/>
+      <node node_id="126_511" type="nt" treebank_id="2"/>
+    </align>
+    <align author="Lingua-Align" prob="0.00439511751267812091" type="fuzzy">
+      <node node_id="s125_5" type="t" treebank_id="1"/>
+      <node node_id="126_15" type="t" treebank_id="2"/>
+    </align>
+  </alignments>
+</treealign>

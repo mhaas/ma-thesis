@@ -1,0 +1,47 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+code/MA/build/*
+code/MA/dist/*
+code/MA/dist
+#code/ma/javadoc/*
+!/code/MA/dist/MA.jar
+secret.py
+*.pyc
+*.log
+.ropeproject
+.coverage
+
+# https://gist.github.com/kogakure/149016#comment-4565
+*.aux
+*.glo
+*.idx
+*.log
+*.toc
+*.ist
+*.acn
+*.acr
+*.alg
+*.bbl
+*.blg
+*.dvi
+*.glg
+*.gls
+*.ilg
+*.ind
+*.lof
+*.lot
+*.maf
+*.mtc
+*.mtc1
+*.out
+*.synctex.gz
+# mine
+thesis/*.pdf
+
+# netbeans
+code/MA/nbproject/private/*

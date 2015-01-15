@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<corpus id="/home/students/haas/ma/film-rezensionen.de/translated-fixed/parsed/all.en.fixed.txt.oneline.60.nodummy.cleaned.tiger">
+  <head>
+</head>
+  <body>
+<s id="s126">
+      <graph root="s126_VROOT">
+        <terminals>
+          <t id="126_3" morph="--" pos="2" word="However" x-sentiment="MAPPED"/>
+          <t id="126_4" morph="--" pos="," word=","/>
+        </terminals>
+        <nonterminals>
+          <nt cat="0" id="s126_VROOT" x-sentiment="MAPPED">
+              <edge idref="126_3" label="--"/>
+              <edge idref="126_4" label="--"/>
+          </nt>
+        </nonterminals>
+      </graph>
+    </s>
+  </body>
+</corpus>

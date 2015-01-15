@@ -1,0 +1,13 @@
+# required by scikit-learn, which apparently does not specify deps properly
+#numpy==1.8.1
+numpy
+scikit-learn==0.14.1
+nltk==2.0.4
+google-api-python-client==1.2
+# If this fails to install because NLTK is not installed,
+# Install NLTK manually:
+# pip install nltk==2.0.4
+git+https://github.com/nltk/nltk_contrib.git@c152bde901f05915e90b07a615b232adb123bed8
+pyparsing==2.0.3
+scipy==0.10.1
+lxml==3.4.1

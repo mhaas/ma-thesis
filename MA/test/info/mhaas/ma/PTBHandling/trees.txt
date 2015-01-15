@@ -1,0 +1,416 @@
+(SBARQ
+  (WHNP
+    (WHNP (WRB how) (RB much))
+    (ADJP (JJR longer)))
+  (SQ (VBP do)
+    (NP (PRP you))
+    (VP (VB think)
+      (SBAR
+        (S
+          (NP (PRP we))
+          (VP (VBP 're)
+            (VP (VBG gon)
+              (S
+                (VP (TO na)
+                  (VP (VB have)
+                    (NP (DT this) (JJ much) (NN security)))))))))))
+  (. ?))
+
+(S
+  (ADVP (RB yeah))
+  (, ,)
+  (NP (DT a) (JJ real) (NN good))
+  (VP (VBP look))
+  (. .))
+
+(S
+  (NP (DT this) (JJ particular) (NN thief))
+  (VP (VBZ is)
+    (ADJP (RB very) (JJ unusual)))
+  (. .))
+
+(FRAG (CC and)
+  (ADVP (RBS most) (JJ likely))
+  (PP
+    (ADVP (RBR smarter))
+    (IN than)
+    (NP (DT a) (JJ mere) (NN killer)))
+  (. .))
+
+(S
+  (S
+    (NP (PRP you))
+    (VP (VBP know)))
+  (, ,)
+  (NP (DT these) (NNS plebes))
+  (VP (VBP think)
+    (SBAR
+      (S
+        (NP (PRP you))
+        (VP (VBP 're)
+          (NP
+            (NP (DT some) (NN kind))
+            (PP (IN of)
+              (NP (NN hero))))))))
+  (. .))
+
+(S
+  (ADVP (RB simultaneously))
+  (NP (PRP we))
+  (VP (VBP acknowledge)
+    (SBAR (IN that)
+      (S
+        (NP (PRP we))
+        (VP (VBP depend)
+          (ADVP (RB entirely))
+          (PP (IN on)
+            (NP
+              (NP (PRP$ our) (NN environment))
+              (, ,)
+              (UCP
+                (CONJP (RB not) (JJ only))
+                (PP (IN in)
+                  (NP
+                    (NP (NN regard))
+                    (PP (TO to)
+                      (NP
+                        (NP (DT the) (NNS necessities))
+                        (PP (IN of)
+                          (NP
+                            (NP (NN life))
+                            (PP (JJ such) (IN as)
+                              (NP (NN food) (, ,) (NN air)
+                                (CC and)
+                                (NN water))))))))
+                  (: ;))
+                (CC but)
+                (ADVP (RB also)))
+              (PP (IN for)
+                (NP
+                  (NP (NN influence)
+                    (CC and)
+                    (NN guidance))
+                  (PP (IN in)
+                    (NP (NN regard)))))))
+          (PP (TO to)
+            (NP
+              (NP (NN life) (POS 's))
+              (NNS processes)))))))
+  (. .))
+
+(S
+  (NP (PRP I))
+  (VP (MD would)
+    (VP (VB 've)
+      (VP (VBN remembered)
+        (NP (DT that)))))
+  (. .))
+
+(S
+  (S
+    (NP (DT this))
+    (VP (VBZ is)
+      (ADJP (JJ true))
+      (SBAR (IN that)
+        (S
+          (NP (NNS things))
+          (VP (VBP are)
+            (ADJP (JJ fast)))))))
+  (, ,)
+  (NP (PRP we))
+  (VP (MD must)
+    (VP
+      (ADVP (RB first))
+      (VBN attached)
+      (PP (TO to)
+        (NP
+          (NP (DT the) (NN body))
+          (PP (IN like)
+            (NP (DT a) (NN turtle) (NNS nuts)))))))
+  (. .))
+
+(S
+  (NP
+    (NP (JJ young) (NN gentleman))
+    (, ,)
+    (NP (DT the) (NN end)))
+  (VP (VBZ is)
+    (ADJP (RB highly)
+      (SBAR
+        (S
+          (VP (VBP know))))))
+  (. .) (. .))
+
+(NP
+  (NP (NN nothing))
+  (PP (IN for)
+    (NP
+      (NP (DT the) (NN task))
+      (PP (IN for)
+        (NP (DT the) (NNP Left)))))
+  (PP (IN of)
+    (NP (DT a) (JJ whole) (NN band)))
+  (. .))
+
+(S
+  (NP (RB especially) (DT the) (JJ little) (NN guy))
+  (VP (VBZ is) (RB not)
+    (NP (RB quite) (DT that) (JJ bad) (NN samurai)))
+  (. !))
+
+(FRAG (: -)
+  (VP (VBD did)
+    (SBAR
+      (S
+        (NP (PRP you))
+        (VP (VBP try)
+          (S
+            (VP (TO to)
+              (VP (VB kill)
+                (NP (NNP Opie)))))))))
+  (. ?))
+
+(NP
+  (NP (NNP Bret) (, ,) (NNP Coop))
+  (, ,)
+  (NP (NN everything) (NN good))
+  (. ?))
+
+(S
+  (S
+    (S
+      (NP (EX there))
+      (VP (VBD were)
+        (NP
+          (NP (NNS times))
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP (NNS people))
+              (VP (VBD accused)
+                (NP (NNP Ray)))))
+          (: ...)
+          (PP (IN of)
+            (S
+              (VP (VBG being)
+                (ADJP
+                  (ADVP (RBR less) (IN than))
+                  (JJ generous))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP I))
+      (VP (VBP am)
+        (ADJP (JJ sure)
+          (SBAR (IN that)
+            (FRAG
+              (ADVP (RB deep) (RB down))))))))
+  (: ...)
+  (S
+    (NP (DT the) (NN man))
+    (VP (VBD possessed)
+      (NP
+        (NP (DT a) (NN heart))
+        (PP (IN of)
+          (NP
+            (NP (NN gold))
+            (CC and)
+            (NP (DT a) (JJ generous) (NN spirit)))))))
+  (. .))
+
+(S
+  (VP (VB and)
+    (NP (DT a) (JJ happy) (NNP New) (NN Year)))
+  (. .))
+
+(FRAG
+  (PP (IN in)
+    (NP (NN closing))
+    (: ...))
+  (: ...)
+  (S (MD may)
+    (NP (PRP I))
+    (VP (VB remind)
+      (NP (PRP you))
+      (SBAR
+        (S
+          (NP
+            (NP (PRP$ your) (JJ 25th) (NN birthday))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBZ is)
+                  (ADVP (RB now))
+                  (VP (VBG approaching)))
+                (: ...))))
+          (: ...)
+          (VP (VBZ marks)
+            (NP
+              (NP (PRP$ your) (JJ complete) (NN independence))
+              (PP (IN from)
+                (NP (DT the) (NN firm))
+                (: ...))
+              (: ...)
+              (PP (IN of)
+                (NP
+                  (NP (NNP Thatcher)
+                    (CC &)
+                    (NNP Company))
+                  (, ,)
+                  (SBAR
+                    (FRAG
+                      (CONJP (RB as) (RB well) (IN as))
+                      (S
+                        (VP (VBG acquiring)
+                          (NP (DT the) (JJ full) (NN responsibility))))))
+                  (: ...)))
+              (: ...))
+            (PP (IN for)
+              (NP
+                (NP (DT the) (NN world) (POS 's))
+                (JJ sixth)
+                (ADJP (JJS largest) (JJ private))
+                (NN fortune))))))))
+  (. .))
+
+(S
+  (S
+    (VP
+      (VP (VB believe)
+        (NP (PRP it)))
+      (CC or)
+      (PRN (RB not)
+        (NP
+          (NP
+            (NP (NNP George) (NNP isn) (POS '))
+            (NN t))
+          (PP (IN at)
+            (NP (NN home)))))
+      (VP (VB affect))))
+  (CC and)
+  (S
+    (NP (JJ emotional) (NNS responses))
+    (VP (VBP are)
+      (NP
+        (ADJP (JJ consistent)
+          (PP (IN with)
+            (NP
+              (NP (NN post))
+              (: -)
+              (NP (JJ traumatic) (NN stress))
+              (: ...))))
+        (NN remorse))
+      (, ,)
+      (INTJ (NN grief) (, ,) (NN guilt))
+      (, ,)
+      (NP (NN anger))))
+  (. .))
+
+(S
+  (S
+    (NP (PRP you))
+    (VP (VBP know)))
+  (, ,)
+  (NP (PRP it))
+  (VP (VBZ 's)
+    (NP (DT a) (JJ real) (NN shame))
+    (SBAR (IN that)
+      (S
+        (NP (DT no) (NN one))
+        (VP (MD will)
+          (ADVP (RB ever))
+          (VP (VB see)
+            (SBAR
+              (WHADJP (RB just) (WRB how) (JJ much))
+              (S
+                (NP (PRP you))
+                (ADVP (RB really))
+                (VP (VBP care)))))))))
+  (. .))
+
+(S
+  (S
+    (NP (PRP you))
+    (VP (VBP see)))
+  (, ,)
+  (NP (NNP Lolita))
+  (VP (VBZ is)
+    (NP
+      (NP (DT a) (JJ sweet) (, ,) (JJ little) (NN child))
+      (: ...)
+      (NP
+        (NP (: ...)
+          (NP (IN but) (DT the) (NN onset))
+          (PP (IN of)
+            (NP
+              (NP (NN maturity))
+              (SBAR
+                (S
+                  (VP (VBZ seems)
+                    (S
+                      (VP (TO to)
+                        (VP (VB be)
+                          (VP (VBG giving)
+                            (NP (PRP her)))))))
+                  (: ...))))))
+        (: ...)
+        (NP
+          (NP (DT a) (JJ certain) (NN amount))
+          (PP (IN of)
+            (NP (NN trouble)))))))
+  (. .))
+
+(FRAG
+  (ADJP (JJ easy))
+  (, ,)
+  (NP (NNP Frank))
+  (. .))
+
+(S (: -)
+  (NP (PRP it))
+  (VP (MD might)
+    (VP (VB take)
+      (NP (DT a) (JJ little))
+      (S
+        (VP (VBG doing)))))
+  (. .))
+
+(S
+  (NP (NNP -))
+  (ADVP (RB sure))
+  (VP (MD would))
+  (. .))
+
+(S
+  (NP (PRP it))
+  (VP (VBZ smells)
+    (PP (IN like)
+      (NP
+        (NP (NN shit))
+        (PP (IN in)
+          (NP
+            (NP (RB here))
+            (, ,)
+            (NP (NNP Frank)))))))
+  (. .))
+
+(INTJ (UH yes) (. ?))
+
+(S
+  (NP (PRP I))
+  (ADVP (RB never))
+  (VP (VBP explain)
+    (NP (NN anything)))
+  (. .))
+
+(S
+  (NP (NNS things))
+  (VP (VBD were)
+    (VP (VBG getting)
+      (ADVP (RB hard))
+      (S
+        (VP (TO to)
+          (VP (VB read))))))
+  (. .))
+

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<corpus id="/home/students/haas/ma/film-rezensionen.de/translated-fixed/parsed/all.en.fixed.txt.oneline.60.nodummy.cleaned.tiger">
+  <head>
+</head>
+  <body>
+<s id="s126">
+      <graph root="s126_VROOT">
+        <terminals>
+          <t id="126_3" morph="--" pos="RB" word="However"/>
+          <t id="126_4" morph="--" pos="," word=","/>
+          <t id="126_6" morph="--" pos="DT" word="the"/>
+          <t id="126_7" morph="--" pos="JJ" word="new"/>
+          <t id="126_8" morph="--" pos="NN" word="country"/>
+          <t id="126_10" morph="--" pos="VBZ" word="turns"/>
+          <t id="126_12" morph="--" pos="RP" word="out"/>
+          <t id="126_15" morph="--" pos="TO" word="to"/>
+          <t id="126_17" morph="--" pos="VB" word="be"/>
+          <t id="126_19" morph="--" pos="RB" word="quite"/>
+          <t id="126_20" morph="--" pos="JJ" word="fast"/>
+          <t id="126_22" morph="--" pos="IN" word="as"/>
+          <t id="126_24" morph="--" pos="JJ" word="total"/>
+          <t id="126_25" morph="--" pos="NN" word="wasteland"/>
+          <t id="126_26" morph="--" pos="." word="."/>
+        </terminals>
+        <nonterminals>
+          <nt cat="ADVP" id="126_502">
+            <edge idref="126_3" label="--"/>
+          </nt>
+          <nt cat="NP&lt;NN&lt;LJJ" id="s126_n500BIN">
+            <edge idref="126_7" label="--"/>
+            <edge idref="126_8" label="--"/>
+          </nt>
+          <nt cat="NP" id="126_505">
+            <edge idref="126_6" label="--"/>
+            <edge idref="s126_n500BIN" label="M-HD"/>
+          </nt>
+          <nt cat="S&lt;NP&lt;L," id="s126_n501BIN">
+            <edge idref="126_4" label="--"/>
+            <edge idref="126_505" label="--"/>
+          </nt>
+          <nt cat="S&lt;NP&lt;L,,ADVP" id="s126_n502BIN">
+            <edge idref="126_502" label="--"/>
+            <edge idref="s126_n501BIN" label="M-HD"/>
+          </nt>
+         <nt cat="PRT" id="126_511">
+            <edge idref="126_12" label="--"/>
+          </nt>
+          <nt cat="VP&lt;VBZ&lt;RPRT" id="s126_n503BIN">
+            <edge idref="126_10" label="--"/>
+            <edge idref="126_511" label="--"/>
+          </nt>
+          <nt cat="ADJP&lt;RB&lt;RJJ" id="s126_n504BIN">
+            <edge idref="126_19" label="--"/>
+            <edge idref="126_20" label="--"/>
+          </nt>
+          <nt cat="NP" id="126_523">
+            <edge idref="126_24" label="--"/>
+            <edge idref="126_25" label="--"/>
+          </nt>
+          <nt cat="PP" id="126_521">
+            <edge idref="126_22" label="--"/>
+            <edge idref="126_523" label="--"/>
+          </nt>
+          <nt cat="ADJP" id="126_518">
+            <edge idref="s126_n504BIN" label="M-HD"/>
+            <edge idref="126_521" label="--"/>
+          </nt>
+          <nt cat="VP" id="126_516">
+            <edge idref="126_17" label="--"/>
+            <edge idref="126_518" label="--"/>
+          </nt>
+          <nt cat="VP" id="126_514">
+            <edge idref="126_15" label="--"/>
+            <edge idref="126_516" label="--"/>
+          </nt>
+          <nt cat="S" id="126_513">
+            <edge idref="126_514" label="--"/>
+          </nt>
+          <nt cat="VP" id="126_509">
+            <edge idref="s126_n503BIN" label="M-HD"/>
+            <edge idref="126_513" label="--"/>
+          </nt>
+          <nt cat="S&lt;NP&lt;RVP" id="s126_n505BIN">
+            <edge idref="s126_n502BIN" label="M-HD"/>
+            <edge idref="126_509" label="--"/>
+          </nt>
+          <nt cat="S" id="126_501">
+            <edge idref="s126_n505BIN" label="M-HD"/>
+            <edge idref="126_26" label="--"/>
+          </nt>
+          <nt cat="VROOT" id="s126_VROOT">
+            <edge idref="126_501" label="--"/>
+          </nt>
+        </nonterminals>
+      </graph>
+    </s>
+  </body>
+</corpus>

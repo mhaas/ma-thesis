@@ -1,0 +1,71 @@
+<corpus id="/home/students/haas/ma/film-rezensionen.de/parsed/filmberichte_fmt.graphroot.cleaned.xml">
+  <head>
+</head>
+<body>
+    <s id="125">
+      <graph root="125_VROOT">
+        <terminals>
+          <t id="125_1" morph="--" pos="2" word="Das" x-sentiment="MAPPED" x-source-id="126_6" x-original-id="s125_1"/>
+          <t id="125_2" morph="--" pos="3" word="neue" x-sentiment="MAPPED" x-source-id="126_7" x-original-id="s125_2"/>
+          <t id="125_3" morph="--" pos="2" word="Land" x-sentiment="MAPPED" x-source-id="126_8" x-original-id="s125_3"/>
+          <t id="125_4" morph="--" pos="2" word="entpuppt" x-sentiment="MAPPED" x-source-id="126_10" x-original-id="s125_4"/>
+          <t id="125_5" morph="--" pos="2" word="sich" x-sentiment="MAPPED" x-source-id="126_15" x-original-id="s125_5"/>
+          <t id="125_6" morph="--" pos="1" word="allerdings" x-sentiment="MAPPED" x-source-id="126_3" x-original-id="s125_6"/>
+          <t id="125_7" morph="--" pos="2" word="recht" x-sentiment="MAPPED" x-source-id="126_19" x-original-id="s125_7"/>
+          <t id="125_8" morph="--" pos="2" word="schnell" x-sentiment="MAPPED" x-source-id="126_20" x-original-id="s125_8"/>
+          <t id="125_9" morph="--" pos="2" word="als" x-sentiment="MAPPED" x-source-id="126_22" x-original-id="s125_9"/>
+          <t id="125_10" morph="--" pos="2" word="totale" x-sentiment="MAPPED" x-source-id="126_24" x-original-id="s125_10"/>
+          <t id="125_11" morph="--" pos="2" word="Ein&#246;de" x-sentiment="MAPPED" x-source-id="126_25" x-original-id="s125_11"/>
+          <t id="125_12" morph="--" pos="2" word="." x-sentiment="MAPPED" x-source-id="126_26" x-original-id="s125_12"/>
+        </terminals>
+        <nonterminals>
+          <nt cat="2" id="125_n500BIN" x-sentiment="DEFAULT">
+            <edge idref="125_2" label="--"/>
+            <edge idref="125_3" label="--"/>
+          </nt>
+          <nt cat="2" id="125_n501" x-sentiment="MAPPED" x-source-id="126_505" x-original-id="s125_n501">
+            <edge idref="125_1" label="--"/>
+            <edge idref="125_n500BIN" label="M-HD"/>
+          </nt>
+          <nt cat="2" id="125_n501BIN" x-sentiment="DEFAULT">
+            <edge idref="125_n501" label="--"/>
+            <edge idref="125_4" label="--"/>
+          </nt>
+          <nt cat="2" id="125_n502BIN" x-sentiment="DEFAULT">
+            <edge idref="125_n501BIN" label="M-HD"/>
+            <edge idref="125_5" label="--"/>
+          </nt>
+          <nt cat="2" id="125_n503BIN" x-sentiment="DEFAULT">
+            <edge idref="125_n502BIN" label="M-HD"/>
+            <edge idref="125_6" label="--"/>
+          </nt>
+          <nt cat="1" id="125_n504" x-sentiment="MAPPED" x-source-id="126_518" x-original-id="s125_n504">
+            <edge idref="125_7" label="--"/>
+            <edge idref="125_8" label="--"/>
+          </nt>
+          <nt cat="2" id="125_n504BIN" x-sentiment="DEFAULT">
+            <edge idref="125_n503BIN" label="M-HD"/>
+            <edge idref="125_n504" label="--"/>
+          </nt>
+          <nt cat="2" id="125_n506" x-sentiment="MAPPED" x-source-id="126_523" x-original-id="s125_n506">
+            <edge idref="125_10" label="--"/>
+            <edge idref="125_11" label="--"/>
+          </nt>
+          <nt cat="2" id="125_n507" x-sentiment="MAPPED" x-source-id="126_521" x-original-id="s125_n507">
+            <edge idref="125_9" label="--"/>
+            <edge idref="125_n506" label="--"/>
+          </nt>
+          <nt cat="1" id="125_n508" x-sentiment="MAPPED" x-source-id="126_501" x-original-id="s125_n508">
+            <edge idref="125_n504BIN" label="M-HD"/>
+            <edge idref="125_n507" label="--"/>
+        </nt>
+        <!-- correct -->
+          <nt cat="1" id="125_VROOT" x-sentiment="MAPPED_ROOT">
+            <edge idref="125_n508" label="--"/>
+            <edge idref="125_12" label="--"/>
+          </nt>
+        </nonterminals>
+      </graph>
+    </s>
+   </body>
+</corpus>

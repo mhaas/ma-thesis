@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<corpus id="/home/students/haas/ma/film-rezensionen.de/translated-fixed/parsed/all.en.fixed.txt.oneline.60.nodummy.cleaned.tiger">
+  <head>
+</head>
+  <body>
+<s id="s126">
+      <graph root="126_3">
+        <terminals>
+          <t id="126_3" morph="--" pos="2" word="However" x-sentiment="MAPPED"/>
+        </terminals>
+      </graph>
+    </s>
+  </body>
+</corpus>

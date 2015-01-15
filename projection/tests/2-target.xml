@@ -1,0 +1,82 @@
+<corpus id="/home/students/haas/ma/film-rezensionen.de/parsed/filmberichte_fmt.graphroot.cleaned.xml">
+  <head>
+</head>
+<body>
+        <s id="ss125">
+      <graph root="ss125_VROOT">
+        <terminals>
+          <t id="s125_1" morph="--" pos="ART" word="Das"/>
+          <t id="s125_2" morph="--" pos="ADJA" word="neue"/>
+          <t id="s125_3" morph="--" pos="NN" word="Land"/>
+          <t id="s125_4" morph="--" pos="VVFIN" word="entpuppt"/>
+          <t id="s125_5" morph="--" pos="PRF" word="sich"/>
+          <t id="s125_6" morph="--" pos="ADV" word="allerdings"/>
+          <t id="s125_7" morph="--" pos="ADV" word="recht"/>
+          <t id="s125_8" morph="--" pos="ADJD" word="schnell"/>
+          <t id="s125_9" morph="--" pos="APPR" word="als"/>
+          <t id="s125_10" morph="--" pos="ADJA" word="totale"/>
+          <t id="s125_11" morph="--" pos="NN" word="Einöde"/>
+          <t id="s125_12" morph="--" pos="$_LRB_" word="."/>
+        </terminals>
+        <nonterminals>
+          <nt cat="AP" id="s125_n500">
+            <edge idref="s125_2" label="--"/>
+          </nt>
+          <nt cat="NP&lt;NN&lt;LAP" id="ss125_n500BIN">
+            <edge idref="s125_n500" label="--"/>
+            <edge idref="s125_3" label="--"/>
+          </nt>
+          <nt cat="NP" id="s125_n501">
+            <edge idref="s125_1" label="--"/>
+            <edge idref="ss125_n500BIN" label="M-HD"/>
+          </nt>
+          <nt cat="S&lt;VVFIN&lt;LNP" id="ss125_n501BIN">
+            <edge idref="s125_n501" label="--"/>
+            <edge idref="s125_4" label="--"/>
+          </nt>
+          <nt cat="NP" id="s125_n502">
+            <edge idref="s125_5" label="--"/>
+          </nt>
+          <nt cat="S&lt;VVFIN&lt;RNP" id="ss125_n502BIN">
+            <edge idref="ss125_n501BIN" label="M-HD"/>
+            <edge idref="s125_n502" label="--"/>
+          </nt>
+          <nt cat="AVP" id="s125_n503">
+            <edge idref="s125_6" label="--"/>
+          </nt>
+          <nt cat="S&lt;VVFIN&lt;RNP,AVP" id="ss125_n503BIN">
+            <edge idref="ss125_n502BIN" label="M-HD"/>
+            <edge idref="s125_n503" label="--"/>
+          </nt>
+          <nt cat="AP" id="s125_n504">
+            <edge idref="s125_7" label="--"/>
+            <edge idref="s125_8" label="--"/>
+          </nt>
+          <nt cat="S&lt;VVFIN&lt;RNP,AVP,AP" id="ss125_n504BIN">
+            <edge idref="ss125_n503BIN" label="M-HD"/>
+            <edge idref="s125_n504" label="--"/>
+          </nt>
+          <nt cat="AP" id="s125_n505">
+            <edge idref="s125_10" label="--"/>
+          </nt>
+          <nt cat="NP" id="s125_n506">
+            <edge idref="s125_n505" label="--"/>
+            <edge idref="s125_11" label="--"/>
+          </nt>
+          <nt cat="PP" id="s125_n507">
+            <edge idref="s125_9" label="--"/>
+            <edge idref="s125_n506" label="--"/>
+          </nt>
+          <nt cat="S" id="s125_n508">
+            <edge idref="ss125_n504BIN" label="M-HD"/>
+            <edge idref="s125_n507" label="--"/>
+          </nt>
+          <nt cat="VROOT" id="ss125_VROOT">
+            <edge idref="s125_n508" label="--"/>
+            <edge idref="s125_12" label="--"/>
+          </nt>
+        </nonterminals>
+      </graph>
+    </s>
+   </body>
+</corpus>

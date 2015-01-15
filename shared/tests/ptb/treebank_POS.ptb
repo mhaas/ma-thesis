@@ -1,0 +1,6 @@
+(S (NN Empfehlenswert) (@S-:-NN-... (@S-:-NN-...-$. (@S-:-NN-...-PTKNEG-$. (@S-:-NN-...-ADV-PTKNEG-$. (VAFIN ist) (NP-SB (ART der) (NN Streifen))) (ADV leider)) (PTKNEG nicht)) ($. .)))
+(NP (@NP-:-...-$. (NN Talentierte) (NP (CAP (@CAP-:-...-AP (@CAP-:-...-KON-AP (ADJA Hauptdarsteller) ($, ,)) (KON sowie)) (AP (AP (NP (ART ein) (PIDAT paar)) (ADV sehr)) (ADJA lustige))) (NN Szenen))) ($. .))
+(CS (S (NP-SB (ART Der) (NN Pluspunkt)) (@S-:-NP-SB-... (VVFIN ueberwiegt) (ADJD klar))) (@CS-:-S-... (KON und) (@CS-:-S-KON-... (S (NP-SB (ART der) (NN Minuspunkt)) (@S-:-NP-SB-... (@S-:-NP-SB-...-PP (VVFIN verliert) (AP (ADV letztendlich) (ADJD absolut))) (PP (APPR an) (NP Bedeutung)))) ($. .))))
+(S (S-SB (PWS-DA Wem) (@S-SB-:-PWS-DA-... (NP-SB (ART das) (NN Buch)) (@S-SB-:-PWS-DA-NP-SB-... (VP gefallen) (VAFIN hat)))) (@S-:-S-SB-... ($, ,) (@S-:-S-SB-$,-... (@S-:-S-SB-$,-...-$. (VAFIN wird) (VP (AVP (ADV sicherlich) (ADV auch)) (@VP-:-AVP-... (PP (APPR an) (NP (ART der) (@NP-:-ART-... (NN Umsetzung) (NP (PPOSAT seine) (NN Freude))))) (VAINF haben)))) ($. .))))
+
+
